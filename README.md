@@ -1,4 +1,4 @@
-Weather App is an application where you can see today's weather and 14 days weather. And also yo can see detail weather data of each day.
+The Weather App is a mobile application that provides users with current weather conditions and the 14-day weather forecast. Additionally, users can access detailed weather data for each day.
 
 API: https://api.open-meteo.com/
 

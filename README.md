@@ -5,17 +5,32 @@ API: https://api.open-meteo.com/
 Libraries Used
 
 MVVM Architecture
+
 Hilt
+
 Room
+
 Navigation Component
+
 ViewModel
+
 Coroutines
+
 Flow
+
 Repositories
+
 LiveData
+
 Firebase Crashlytics
+
 Firebase Cloud Messaging
+
 Third party libraries
+
 Retrofit
+
 OkHttp
+
 Gson
+
